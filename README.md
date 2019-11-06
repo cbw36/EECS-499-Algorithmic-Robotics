@@ -1,4 +1,4 @@
-Work related to EECS 499, a graduate course in robotic algorithms taken in Spring 2017. Includes two projects using algorithms studied in the Probabilistic Robotics textbook by Dieter Fox and Sebastian Thrun.  
+Work related to EECS 499, a graduate course in robotic algorithms taken in Spring 2017.  Includes two projects using algorithms studied in the Probabilistic Robotics textbook by Dieter Fox and Sebastian Thrun.  
 
 The first project is a particle filter that tracks monocular video footage of a Rubik's Cube.  
 
