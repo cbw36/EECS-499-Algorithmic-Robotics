@@ -2,6 +2,6 @@ Work related to EECS 499, a graduate course in robotic algorithms taken in Sprin
 
 The first project is a particle filter that tracks monocular video footage of a Rubik's Cube.  
 
-The second project uses a rapidly-exploring random forest (RRT) and a probabilistic roadmap (PRM) to navigate two 2 DoF robots navigating a maze together without colliding. 
+The second project uses a rapidly-exploring random forest (RRT) and a probabilistic roadmap (PRM) to navigate two 2 DoF robots navigating a maze together without colliding.
 
-Please see the writeup files for a full technical report, including theory, implementation, and results.
+Please see the Particle Filter Report and PRM/RRT Report files for a full technical report, including theory, implementation, and results.
